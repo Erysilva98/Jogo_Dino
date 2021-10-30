@@ -11,8 +11,8 @@
     - 29/10/2021
     - Início ás 21h
     - Iniciando aula #5
-    - Se o Úsuario Perder, suger um alert 
-    - Chamada de reload, implementada
+    - Se o Úsuario Perder, surgir um alert 
+    - Chamada de reload, Implementada
     - Aula #5 á #8 Concluída
     - Finalizando ás 22h45m
     - Entregando Projeto ás 22h50m
