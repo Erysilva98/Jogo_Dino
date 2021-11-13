@@ -1,6 +1,6 @@
 # Jogo_Dino
     - Recriando o Jogo do Dinossauro do Chrome
-    - Projeto da DIGITAL INOVATION ONE
+    - Projeto da DIGITAL INNOVATION ONE
 
 #### Criando o Game
     - 28/10/2021
